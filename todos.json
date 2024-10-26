@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Buy groceries",
+        "Completed": false,
+        "CreatedAt": "2024-10-26T12:34:48.6436306+05:30",
+        "CompletedAt": "2024-10-26T12:49:07.7612956+05:30"
+    },
+    {
+        "Title": "Start studying",
+        "Completed": false,
+        "CreatedAt": "2024-10-26T12:34:48.6436306+05:30",
+        "CompletedAt": null
+    },
+    {
+        "Title": "Start DSA",
+        "Completed": false,
+        "CreatedAt": "2024-10-26T12:48:31.6275906+05:30",
+        "CompletedAt": null
+    }
+]
